@@ -1,6 +1,10 @@
 # summer-breeze
 heartwarming theme for Home Assistant
 
+![Image](https://github.com/capstan1/summer-breeze/blob/master/examples/example1.jpeg)
+
+![Image](https://github.com/capstan1/summer-breeze/blob/master/examples/example%203.jpeg)
+
 ## How to apply this theme (for beginners)
 
 1. create a folder named themes in your home assistant directory
